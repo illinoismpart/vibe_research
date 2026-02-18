@@ -1,6 +1,6 @@
 # Vibe Research
 
-**Provided by** the [Medical Policy Applied Research Team (MPART)](https://www.uis.edu/) at the **University of Illinois Springfield**.  
+**Provided by** the [Medical Policy Applied Research Team (MPART)]([https://www.uis.edu/](https://github.com/illinoismpart/.github/blob/main/README.md)) at the **University of Illinois Springfield**.  
 **Collaboratively Built by** Dr. Ben Barnard, Dr. Ty Dooley, Frank Sun, and Oladimeji Adaramewa
 
 ---
