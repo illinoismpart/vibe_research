@@ -1,3 +1,7 @@
-docling>=2.0.0
-cloudflare>=4.0.0
-requests>=2.28.0
+# Pinned versions for supply-chain security.
+# Upgrade deliberately; test before bumping pins.
+# Last pinned: 2026-02-18
+
+docling==2.74.0
+cloudflare==4.3.1
+requests==2.32.5

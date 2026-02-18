@@ -37,10 +37,22 @@ env/
 data/raw/
 data/parsed/
 
+# Quarantine — documents flagged by PII/PHI sniffer pending human review.
+# These are intentionally NOT versioned. The .gitkeep preserves the directory.
+data/quarantine/
+!data/quarantine/.gitkeep
+
 # Environment and secrets
 .env
 .env.local
 *.pem
+
+# manifest.lock, manifest.json.sig, and audit_log.csv are intentionally
+# TRACKED in git — they are the integrity and audit anchors.
+# Do NOT add them here.
+# data/manifest.lock
+# data/manifest.json.sig
+# data/audit_log.csv
 
 # OS
 .DS_Store
